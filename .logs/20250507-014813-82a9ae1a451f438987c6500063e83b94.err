@@ -1,0 +1,43 @@
+
+
+===== TS errors =====
+
+[Test Mode] ./app/guide/page.tsx:120:12
+Type error: Cannot find name 'Link'.
+
+[0m [90m 118 |[39m         {[90m/* Next Steps */[39m}[0m
+[0m [90m 119 |[39m         [33m<[39m[33mdiv[39m className[33m=[39m[32m"flex justify-center mt-8"[39m[33m>[39m[0m
+[0m[31m[1m>[22m[39m[90m 120 |[39m           [33m<[39m[33mLink[39m[0m
+[0m [90m     |[39m            [31m[1m^[22m[39m[0m
+[0m [90m 121 |[39m             href[33m=[39m[32m"/generate"[39m[0m
+[0m [90m 122 |[39m             className[33m=[39m[32m"inline-flex items-center px-6 py-3 bg-primary text-white rounded-md hover:bg-primary/90 transition-colors"[39m[0m
+[0m [90m 123 |[39m           [33m>[39m[0m
+
+[Test Mode] ./app/guide/page.tsx:126:13
+Type error: Cannot find name 'Link'.
+
+[0m [90m 124 |[39m             [33mStart[39m [33mCreating[39m[0m
+[0m [90m 125 |[39m             [33m<[39m[33mArrowRight[39m className[33m=[39m[32m"ml-2 h-5 w-5"[39m [33m/[39m[33m>[39m[0m
+[0m[31m[1m>[22m[39m[90m 126 |[39m           [33m<[39m[33m/[39m[33mLink[39m[33m>[39m[0m
+[0m [90m     |[39m             [31m[1m^[22m[39m[0m
+[0m [90m 127 |[39m         [33m<[39m[33m/[39m[33mdiv[39m[33m>[39m[0m
+[0m [90m 128 |[39m       [33m<[39m[33m/[39m[33mdiv[39m[33m>[39m[0m
+[0m [90m 129 |[39m     [33m<[39m[33m/[39m[33mdiv[39m[33m>[39m[0m
+
+===== TS errors =====
+
+
+Failed to compile.
+
+./app/guide/page.tsx:120:12
+Type error: Cannot find name 'Link'.
+
+[0m [90m 118 |[39m         {[90m/* Next Steps */[39m}[0m
+[0m [90m 119 |[39m         [33m<[39m[33mdiv[39m className[33m=[39m[32m"flex justify-center mt-8"[39m[33m>[39m[0m
+[0m[31m[1m>[22m[39m[90m 120 |[39m           [33m<[39m[33mLink[39m[0m
+[0m [90m     |[39m            [31m[1m^[22m[39m[0m
+[0m [90m 121 |[39m             href[33m=[39m[32m"/generate"[39m[0m
+[0m [90m 122 |[39m             className[33m=[39m[32m"inline-flex items-center px-6 py-3 bg-primary text-white rounded-md hover:bg-primary/90 transition-colors"[39m[0m
+[0m [90m 123 |[39m           [33m>[39m[0m
+Next.js build worker exited with code: 1 and signal: null
+error Command failed with exit code 1.

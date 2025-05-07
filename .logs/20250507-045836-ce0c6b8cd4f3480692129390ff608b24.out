@@ -1,0 +1,52 @@
+yarn install v1.22.22
+[1/4] Resolving packages...
+yarn run v1.22.22
+$ next dev
+  ▲ Next.js 14.2.28
+  - Local:        http://localhost:3000
+  - Experiments (use with caution):
+    · outputFileTracingRoot
+
+ ✓ Starting...
+ ✓ Ready in 1943ms
+ ○ Compiling / ...
+ ✓ Compiled / in 3s (580 modules)
+ GET / 200 in 3686ms
+ ✓ Compiled in 637ms (287 modules)
+ GET / 200 in 145ms
+ GET / 200 in 143ms
+ GET / 200 in 40ms
+ ✓ Compiled /_not-found in 380ms (569 modules)
+ GET /forge.png 404 in 487ms
+ ○ Compiling /guide ...
+ ✓ Compiled /guide in 548ms (578 modules)
+ GET / 200 in 116ms
+ GET / 200 in 43ms
+ GET / 200 in 50ms
+ GET /forge.png 404 in 26ms
+ GET / 200 in 35ms
+ GET / 200 in 35ms
+ GET / 200 in 30ms
+ GET /forge.png 404 in 19ms
+ GET / 200 in 48ms
+ GET / 200 in 47ms
+ GET / 200 in 36ms
+ GET /forge.png 404 in 26ms
+ GET / 200 in 37ms
+ GET / 200 in 31ms
+ GET / 200 in 34ms
+ GET /forge.png 404 in 31ms
+ GET / 200 in 27ms
+ GET / 200 in 26ms
+ GET / 200 in 25ms
+ GET /forge.png 404 in 15ms
+ GET / 200 in 44ms
+ GET / 200 in 39ms
+ GET / 200 in 37ms
+ GET /forge.png 404 in 52ms
+ GET / 200 in 46ms
+ GET / 200 in 40ms
+ GET / 200 in 33ms
+ GET /forge.png 404 in 20ms
+ GET /forge.png 404 in 18ms
+ GET /forge.png 404 in 17ms
